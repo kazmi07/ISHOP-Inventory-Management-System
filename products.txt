@@ -1,0 +1,18 @@
+Clothing,CL001,IBA Hoodie,2500.00,50,L,Navy Blue,Cotton
+Clothing,CL002,IBA T-Shirt,1200.00,100,M,White,Polyester
+Clothing,CL003,IBA Polo Shirt,1800.00,75,L,Maroon,Cotton
+Clothing,CL004,IBA Jacket,3500.00,30,XL,Black,Polyester
+Clothing,CL005,IBA Sweatshirt,2200.00,40,M,Grey,Fleece
+Stationery,ST001,IBA Pen,150.00,200,Dollar,Pen
+Stationery,ST002,IBA Notebook,300.00,150,ChenOne,Notebook
+Stationery,ST003,IBA Diary,450.00,80,Pioneer,Diary
+Stationery,ST004,IBA Keychain,200.00,120,Generic,Keychain
+Stationery,ST005,IBA Mug,350.00,90,Porcelain,Mug
+Accessory,AC001,IBA Laptop Sleeve,800.00,45,1,LaptopSleeve
+Accessory,AC002,IBA Power Bank,3500.00,30,1,PowerBank
+Accessory,AC003,IBA USB Drive,1200.00,60,1,USBDrive
+Accessory,AC004,IBA Cap,650.00,85,0,Cap
+Accessory,AC005,IBA Bag,2500.00,25,0,Bag
+Clothing,CL006,IBA Scarf,850.00,55,One Size,Blue,Silk
+Stationery,ST006,IBA Stickers,50.00,300,Generic,Stickers
+Accessory,AC006,IBA Mouse Pad,400.00,70,0,MousePad
